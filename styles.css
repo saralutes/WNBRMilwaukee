@@ -1,0 +1,101 @@
+/* Elements */
+Body, .list-group, .list-group-item {
+    background-color: #F6A705;
+    color: #0A2140;
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+h1 {
+    font-size: 7rem;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+h4 {
+    font-size: 2rem;
+}
+
+h5 {
+    font-family: 'Bebas Neue', 'lato', 'montserrat';
+    font-weight: bold;
+}
+
+/* Navbar */
+.navbar, .nav-item, .navbar-nav, .nav-link, .navbar-brand {
+    background-color: #0A2140;
+    color: #F6A705;
+    padding-left: .5rem;
+    padding-right: .5rem;
+
+}
+
+.nav-item:hover, .nav-link:hover {
+    color: #06A6E2;
+}
+
+.logo {
+    background-color: #06A6E2;
+    padding: .25rem;
+    border-radius: 25%;
+}
+
+.navbar-toggler {
+    background-color: #F6A705;
+    color: #06A6E2;
+}
+
+/* Sections */
+
+#about {
+    padding-top: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+#social-media, #faq {
+    padding-top: 4.5rem;
+}
+
+#photo-gallery {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.footer {
+    background-color: #0A2140;
+    color: #F6A705;
+    font-size: .75rem;
+}
+
+/* Custom Classes */
+
+.cntr {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.heading {
+    font-family: 'League Gothic', 'sans-serif';
+    font-weight: bold;
+}
+
+.list, .text-link, .slogan {
+    color: #0A81AB;
+    font-weight: bold;
+}
+
+.slogan {
+    font-size: 1.5rem;
+}
+
+.footer-link {
+    font-size: .75rem;
+    color: #06A6E2;
+}
+
+.footer-link:hover {
+    color: #F6A705;
+}
