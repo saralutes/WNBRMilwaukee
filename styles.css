@@ -80,6 +80,7 @@ h5 {
 .heading {
     font-family: 'League Gothic', 'sans-serif';
     font-weight: bold;
+    padding: .25rem;
 }
 
 .list, .text-link, .slogan {
@@ -98,4 +99,8 @@ h5 {
 
 .footer-link:hover {
     color: #F6A705;
+}
+.btn {
+    background-color: #0A81AB;
+    color: #0A2140;
 }
